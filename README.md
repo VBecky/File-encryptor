@@ -58,7 +58,7 @@ pyinstaller --onefile --windowed main.py
 
 ## Main Window
 
-(assets/screenshots/main_window.png)
+![Main Window](assets/screenshots/main_window.png.png)
 
 
 ## Encryption Complete
