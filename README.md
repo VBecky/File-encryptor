@@ -63,7 +63,7 @@ pyinstaller --onefile --windowed main.py
 
 ## Encryption Complete
 
-(assets/screenshots/encryption_complete.png)
+![Encryption Complete](assets/screenshots/encryption_complete.png.png)
 
 ---
 
